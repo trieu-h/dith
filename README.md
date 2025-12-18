@@ -1,5 +1,6 @@
 # Dith
 Demonstration of Floyd–Steinberg dithering algorithm on an image
+[Live demo](https://trieu-h.github.io/dith/)
 ![Example](example.png)
 
 TODO:
